@@ -1,16 +1,20 @@
-### Hi there 👋
+<!-- Heading -->
+<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Óla, meu nome é Eduardo Kainan </h3>
 
-<!--
-**EduardoKainan/EduardoKainan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/eduardo-kainan-leite-sousa-14b26024/">Linkedin</a> •
+  <a href="https://www.instagram.com/eduardu.tec/">Instagram</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!-- About section -->
+
+---
+✨ Atualmente estou em Desenvolvimento profissional para aréa de Testes Automatizados e Qualidade de Software, com mentoria do Professor Vinius Pessoni, Engenheiro de Sofware Internacional e a Comunidade de Tester Global. Sou Graduado em Sistemas de Informação, pela UniAlfa; 
+
+## Skills
+- 👨‍💻 Java, PostMan
+- ⚙️ Junit 5, Hamcrest e Gradle
+- 👁️ Selenium Web Driver
+- 🎁 Liderança de Equipe
