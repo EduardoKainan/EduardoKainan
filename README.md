@@ -14,7 +14,11 @@
 ✨ Atualmente estou em Desenvolvimento profissional para aréa de Testes Automatizados e Qualidade de Software, com mentoria do Professor Vinius Pessoni, Engenheiro de Sofware Internacional e a Comunidade de Tester Global. Sou Graduado em Sistemas de Informação, pela UniAlfa; 
 
 ## Skills
-- 👨‍💻 Java, PostMan
+- 👨‍💻 Java, PostMan, RestAssured
 - ⚙️ Junit 5, Hamcrest e Gradle
-- 👁️ Selenium Web Driver
+- 👁️ Selenium Web Driver, BDD, Cucumber
 - 🎁 Liderança de Equipe
+
+## Frase
+"Nunca deixe que alguém te diga que não pode fazer algo. Nem mesmo eu. Se você tem um sonho, tem que protegê-lo. As pessoas que não podem fazer por si mesmas, dirão que você não consegue. Se quer alguma coisa, vá e lute por ela. Ponto final."
+-A procura da Felicidade-
